@@ -1,0 +1,1 @@
+# Analysis-on-Earthquake-in-japan_Logistic-Regression-Model
